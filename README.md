@@ -2,11 +2,12 @@
 ## Reconnaissance faciale
 # Détection des visages
 Prédictions :
-
 - prénom
 - âge
 - genre
 - humeur
+
+Enregistrement vidéo
 ## Reconnaissance gestuelle
 Démarrer et éteindre l'enregistrement d'une vidéo avec les mains  
 Prendre une photo en montrant ses 10 doigts  
@@ -14,6 +15,7 @@ Prendre une photo en montrant ses 10 doigts
 ## Reconnaissance de la voix
 Allumage de la webcam  
 Prise de photo  
+Enregistrement vidéo
 
 ### Utilisation des différents fonctionnalités
 
