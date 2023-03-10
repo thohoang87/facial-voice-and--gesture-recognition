@@ -6,6 +6,7 @@ Prédictions :
 - âge
 - genre
 - humeur
+
 Enregistrement vidéo
 ## Reconnaissance gestuelle
 Démarrer et éteindre l'enregistrement d'une vidéo avec les mains  
